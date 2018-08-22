@@ -17,6 +17,6 @@ crmutils.exe	1.2.1.74
 erpicoadmin.exe	1.2.1.43
 erpicoucihelper.exe	1.0.0.1
 erpicoymaps.dll	1.3.2.73
-bus4usservlet.dll	1.0.7.44
+bus4usservlet.dll	1.0.7.45
 bus4usdriverservlet.dll	1.0.4.59
 bus4usclientservlet.dll	1.0.3.55
