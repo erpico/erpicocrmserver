@@ -18,5 +18,5 @@ erpicoadmin.exe	1.2.1.64
 erpicoucihelper.exe	1.0.0.1
 erpicoymaps.dll	1.3.2.98
 bus4usservlet.dll	1.0.14.70
-bus4usdriverservlet.dll	1.0.6.84
+bus4usdriverservlet.dll	1.0.6.85
 bus4usclientservlet.dll	1.0.5.81
