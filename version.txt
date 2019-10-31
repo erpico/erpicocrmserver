@@ -2,7 +2,7 @@ erpicocrmserver.exe	2.1.1.1
 acllib.dll	2.1.1.4
 chrome_elf.dll	74.0.3729.157
 core.dll	2.1.1.4
-crmcore.dll	2.1.1.4
+crmcore.dll	2.1.1.5
 erpicocti.dll	2.1.1.4
 guiex.dll	2.1.1.1
 guilib.dll	2.1.1.4
@@ -16,7 +16,7 @@ clientservlet.dll	2.1.1.4
 crmutils.exe	2.1.1.4
 erpicoadmin.exe	2.1.1.3
 erpicoucihelper.exe	1.0.0.1
-erpicoymaps.dll	2.1.1.4
+erpicoymaps.dll	2.1.1.5
 bus4usservlet.dll	2.1.1.4
 bus4usdriverservlet.dll	2.1.1.5
 bus4usclientservlet.dll	2.1.1.4
